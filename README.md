@@ -1,6 +1,6 @@
 # Portfolio ChitFumo Website Completed ✔
 
-![win95](win95.png)
+![demo](demo.png)
 
 ## About This Project
 This is my experiment of webcomponents. I came up with this awesome idea and created a project based on various sources to develop fun and creative web applications. Hope you like it.
