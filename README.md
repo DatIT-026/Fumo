@@ -1,10 +1,18 @@
-# Portfolio Fumo Website
+# Portfolio ChitFumo Website Completed ✔
 
-  Note: This project have not been done yet.
-  Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+![win95](win95.png)
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+## About This Project
+This is my experiment of webcomponents. I came up with this awesome idea and created a project based on various sources to develop fun and creative web applications. Hope you like it.
+
+## Explore more?
+View online demo [here](https://datit-026.github.io/fumo/).
+
+## Contact us
+- Email: tiendatha2006@gmail.com
+- Social Media: [Facebook](https://www.facebook.com/datit.dev/)
+
+Please feel free to contact me through these channels.
+
+### License
+This project is licensed under the [MIT License](LICENSE).
